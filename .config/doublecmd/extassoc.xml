@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd DCVersion="1.2.8 gamma">
+  <ExtensionAssociation>
+    <FileType>
+      <Name>.txt</Name>
+      <IconFile/>
+      <ExtensionList>.txt</ExtensionList>
+      <Actions>
+        <Action>
+          <Name>Open</Name>
+          <Command>kitty --detach nvim --server /tmp/nvimsocket --remote-tab "%1"
+</Command>
+        </Action>
+        <Action>
+          <Name>Open</Name>
+          <Command>sh -c 'kitty nvim --server /tmp/nvimsocket --remote-tab-wait "%1" || kitty nvim --listen /tmp/nvimsocket "%1"'
+</Command>
+        </Action>
+      </Actions>
+    </FileType>
+  </ExtensionAssociation>
+</doublecmd>

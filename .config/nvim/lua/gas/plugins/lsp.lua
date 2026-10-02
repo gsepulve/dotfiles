@@ -20,6 +20,16 @@ return {
     end
   },
   { 'onsails/lspkind-nvim' },
+  {
+    'cordx56/rustowl',
+    version = '*',
+    build = 'cargo install rustowl',
+    lazy = false,
+    dependencies = { "neovim/nvim-lspconfig" },
+    opts = {
+      cmd = { vim.fn.expand("$HOME") .. "/.cargo/bin/rustowl" }
+    },
+  },
 
   {
     "hrsh7th/nvim-cmp",

@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="+">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="licenses">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="gnu">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/gnu/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="licenses">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="gnu">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/gnu/</Path>
+                  <Path Filename="Copyright, Licensing, Open Source">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="Unlicense">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/Unlicense/</Path>
+                  <Path Filename="Arto Bendiken">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/Arto Bendiken/</Path>
+                  <Path Filename="Unlicense">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/Unlicense/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/</Path>
+                  <Path Filename="Copyright, Licensing, Open Source">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Copyright, Licensing, Open Source/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="logic">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/logic/</Path>
+                  <Path Filename="workflow">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/workflow/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="langs">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="languages">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="more">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="lop">/home/gas/cht/01-CS/languages/more/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/more/lop/</Path>
+                  <Path Filename="hylo">/home/gas/cht/01-CS/languages/more/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/more/hylo/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/more/</Path>
+                  <Path Filename="more">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/more/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="++">/home/gas/cht/</Path>
+                  <Path Filename="languages">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="C++">/home/gas/cht/00-inbox/languages/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/languages/C++/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/languages/</Path>
+                  <Path Filename="keyboard">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/keyboard/</Path>
+                  <Path Filename="later">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/later/</Path>
+                  <Path Filename="College Physics Mumbai University (BSc, Semester I) (Kailas R. Jagdeo, Sopan A. Bhamare etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf">/home/gas/cht/00-inbox/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="used">/home/gas/cht/98-print/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/used/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/</Path>
+                  <Path Filename="98-other">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/98-other/</Path>
+                  <Path Filename="98-other">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/98-other/</Path>
+                  <Path Filename="12-socio">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="12-society">/home/gas/cht/</Path>
+                  <Path Filename="cognitive">/home/gas/cht/12-society/</Path>
+                  <Path Filename="Julian Jaynes (Bicameral Mind)">/home/gas/cht/12-society/cognitive/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/cognitive/Julian Jaynes (Bicameral Mind)/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/cognitive/</Path>
+                  <Path Filename="econ">/home/gas/cht/12-society/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/econ/</Path>
+                  <Path Filename="media">/home/gas/cht/12-society/</Path>
+                  <Path Filename="ccru">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="Fanzine Files">/home/gas/cht/12-society/media/ccru/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/ccru/Fanzine Files/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/ccru/</Path>
+                  <Path Filename="Ben Sheinderman">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/Ben Sheinderman/</Path>
+                  <Path Filename="ar">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/ar/</Path>
+                  <Path Filename="libreboot">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/libreboot/</Path>
+                  <Path Filename="lic">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="Copyright, Licensing, Open Source">/home/gas/cht/12-society/media/lic/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/lic/Copyright, Licensing, Open Source/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/lic/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/</Path>
+                  <Path Filename="00-inbox">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="++">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/++/</Path>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="00-inbox">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="crypto">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/crypto/</Path>
+                  <Path Filename="crypto">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/crypto/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="04-hardware">/home/gas/cht/</Path>
+                  <Path Filename="crypto">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/crypto/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="hardware-sec-2nd-2026">/home/gas/cht/00-in/</Path>
+                  <Path Filename="2027_Hardware-Security">/home/gas/cht/00-in/hardware-sec-2nd-2026/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/hardware-sec-2nd-2026/2027_Hardware-Security/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/hardware-sec-2nd-2026/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="98-print">/home/gas/cht/</Path>
+                  <Path Filename="used">/home/gas/cht/98-print/</Path>
+                  <Path Filename="2027 - hardware security 2">/home/gas/cht/98-print/used/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/used/2027 - hardware security 2/</Path>
+                  <Path Filename="2025_Modern-Assembly">/home/gas/cht/98-print/used/</Path>
+                  <Path Filename="out">/home/gas/cht/98-print/used/2025_Modern-Assembly/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/used/2025_Modern-Assembly/out/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/used/2025_Modern-Assembly/</Path>
+                  <Path Filename="2025 - embedded systems 2">/home/gas/cht/98-print/used/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/used/2025 - embedded systems 2/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/used/</Path>
+                  <Path Filename="..">/home/gas/cht/98-print/</Path>
+                  <Path Filename="05-gfx">/home/gas/cht/</Path>
+                  <Path Filename="Ray Tracing And Path Tracing">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/Ray Tracing And Path Tracing/</Path>
+                  <Path Filename="sand">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/sand/</Path>
+                  <Path Filename="opengl">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/opengl/</Path>
+                  <Path Filename="ilum">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/ilum/</Path>
+                  <Path Filename="topo">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/topo/</Path>
+                  <Path Filename="sdf">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/sdf/</Path>
+                  <Path Filename="zine">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/zine/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/</Path>
+                  <Path Filename="gas">/home/</Path>
+                  <Path Filename="..">/home/gas/</Path>
+                  <Path Filename="gas">/home/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="03-gameDev">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/03-gameDev/</Path>
+                  <Path Filename="00-inbox">/home/gas/cht/</Path>
+                  <Path Filename="Celular dump">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/Celular dump/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/gas/cht/05-gfx/sand/</Path>
+                  <Path Filename="opengl">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/opengl/</Path>
+                  <Path Filename="ilum">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/ilum/</Path>
+                  <Path Filename="topo">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/topo/</Path>
+                  <Path Filename="sdf">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/sdf/</Path>
+                  <Path Filename="zine">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/zine/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="11-mental">/home/gas/cht/</Path>
+                  <Path Filename="hci">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="bci">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/bci/</Path>
+                  <Path Filename="bci">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/bci/</Path>
+                  <Path Filename="Bill Buxton">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Bill Buxton/</Path>
+                  <Path Filename="eyet">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/eyet/</Path>
+                  <Path Filename="eyet">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/eyet/</Path>
+                  <Path Filename="fpga">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/fpga/</Path>
+                  <Path Filename="Haptics">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="Vincent Hayward">/home/gas/cht/11-mental/hci/Haptics/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Haptics/Vincent Hayward/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Haptics/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="cht-backup-2026-09-06-14-38">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-06-14-38/</Path>
+                  <Path Filename="cht-backup-2026-09-23-02-50">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-23-02-50/</Path>
+                  <Path Filename="cht-backup-2026-09-23-02-50">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-23-02-50/</Path>
+                  <Path Filename="cht-backup-2026-09-06-14-38">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-06-14-38/</Path>
+                  <Path Filename=".local">/home/gas/</Path>
+                  <Path Filename="share">/home/gas/.local/</Path>
+                  <Path Filename="Trash">/home/gas/.local/share/</Path>
+                  <Path Filename="info">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/info/</Path>
+                  <Path Filename="files">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="08-anim_3999291688135">/home/gas/.local/share/Trash/files/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="ilum">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/ilum/</Path>
+                  <Path Filename="topo">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/topo/</Path>
+                  <Path Filename="sdf">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/sdf/</Path>
+                  <Path Filename="zine">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/zine/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="11-mental">/home/gas/cht/</Path>
+                  <Path Filename="hci">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="bci">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/bci/</Path>
+                  <Path Filename="bci">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/bci/</Path>
+                  <Path Filename="Bill Buxton">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Bill Buxton/</Path>
+                  <Path Filename="eyet">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/eyet/</Path>
+                  <Path Filename="eyet">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/eyet/</Path>
+                  <Path Filename="fpga">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/fpga/</Path>
+                  <Path Filename="Haptics">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="Vincent Hayward">/home/gas/cht/11-mental/hci/Haptics/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Haptics/Vincent Hayward/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Haptics/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="cht-backup-2026-09-06-14-38">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-06-14-38/</Path>
+                  <Path Filename="cht-backup-2026-09-23-02-50">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-23-02-50/</Path>
+                  <Path Filename="cht-backup-2026-09-23-02-50">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-23-02-50/</Path>
+                  <Path Filename="cht-backup-2026-09-06-14-38">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-06-14-38/</Path>
+                  <Path Filename=".local">/home/gas/</Path>
+                  <Path Filename="share">/home/gas/.local/</Path>
+                  <Path Filename="Trash">/home/gas/.local/share/</Path>
+                  <Path Filename="info">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/info/</Path>
+                  <Path Filename="files">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/files/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="Trash">/home/gas/.local/share/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="11-mental">/home/gas/cht/</Path>
+                  <Path Filename="hci">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="bci">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/bci/</Path>
+                  <Path Filename="bci">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/bci/</Path>
+                  <Path Filename="Bill Buxton">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Bill Buxton/</Path>
+                  <Path Filename="eyet">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/eyet/</Path>
+                  <Path Filename="eyet">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/eyet/</Path>
+                  <Path Filename="fpga">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/fpga/</Path>
+                  <Path Filename="Haptics">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="Vincent Hayward">/home/gas/cht/11-mental/hci/Haptics/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Haptics/Vincent Hayward/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/Haptics/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/hci/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="cht-backup-2026-09-06-14-38">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-06-14-38/</Path>
+                  <Path Filename="cht-backup-2026-09-23-02-50">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-23-02-50/</Path>
+                  <Path Filename="cht-backup-2026-09-23-02-50">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-23-02-50/</Path>
+                  <Path Filename="cht-backup-2026-09-06-14-38">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht-backup-2026-09-06-14-38/</Path>
+                  <Path Filename=".local">/home/gas/</Path>
+                  <Path Filename="share">/home/gas/.local/</Path>
+                  <Path Filename="Trash">/home/gas/.local/share/</Path>
+                  <Path Filename="info">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/info/</Path>
+                  <Path Filename="files">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/files/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="Trash">/home/gas/.local/share/</Path>
+                  <Path Filename="..">/home/gas/.local/share/Trash/</Path>
+                  <Path Filename="..">/home/gas/.local/share/</Path>
+                  <Path Filename="..">/home/gas/.local/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="src">/home/gas/</Path>
+                  <Path Filename="c">/home/gas/src/</Path>
+                  <Path Filename="algo">/home/gas/src/c/</Path>
+                  <Path Filename="..">/home/gas/src/c/algo/</Path>
+                  <Path Filename="compute_x_y.c">/home/gas/src/c/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="98-other">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/98-other/</Path>
+                  <Path Filename="98-other">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/98-other/</Path>
+                  <Path Filename="12-socio">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="12-society">/home/gas/cht/</Path>
+                  <Path Filename="cognitive">/home/gas/cht/12-society/</Path>
+                  <Path Filename="Julian Jaynes (Bicameral Mind)">/home/gas/cht/12-society/cognitive/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/cognitive/Julian Jaynes (Bicameral Mind)/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/cognitive/</Path>
+                  <Path Filename="econ">/home/gas/cht/12-society/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/econ/</Path>
+                  <Path Filename="media">/home/gas/cht/12-society/</Path>
+                  <Path Filename="ccru">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="Fanzine Files">/home/gas/cht/12-society/media/ccru/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/ccru/Fanzine Files/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/ccru/</Path>
+                  <Path Filename="Ben Sheinderman">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/Ben Sheinderman/</Path>
+                  <Path Filename="ar">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/ar/</Path>
+                  <Path Filename="libreboot">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/libreboot/</Path>
+                  <Path Filename="lic">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="Copyright, Licensing, Open Source">/home/gas/cht/12-society/media/lic/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/lic/Copyright, Licensing, Open Source/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/lic/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-society/</Path>
+                  <Path Filename="00-inbox">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="++">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/++/</Path>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="00-inbox">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-inbox/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="crypto">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/crypto/</Path>
+                  <Path Filename="crypto">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/crypto/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="04-hardware">/home/gas/cht/</Path>
+                  <Path Filename="crypto">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/crypto/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="24-8-26-9-30.mp4">/home/gas/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>1</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="gas">/home/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="langs">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="cpp">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/cpp/</Path>
+                  <Path Filename="C">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/C/</Path>
+                  <Path Filename="cpp">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/cpp/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="cSystems">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/cSystems/</Path>
+                  <Path Filename="network">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/network/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="qt">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/qt/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="14-life">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/</Path>
+                  <Path Filename="12-socio">/home/gas/cht/</Path>
+                  <Path Filename="econ">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/econ/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="04-hw">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="70-thesis">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/70-thesis/</Path>
+                  <Path Filename="++">/home/gas/cht/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/gas/cht/04-hw/embedded/arm/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/embedded/</Path>
+                  <Path Filename="embedded">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="cortexM4">/home/gas/cht/04-hw/embedded/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/embedded/cortexM4/</Path>
+                  <Path Filename="arm">/home/gas/cht/04-hw/embedded/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/embedded/arm/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/embedded/</Path>
+                  <Path Filename="embedded">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="arm">/home/gas/cht/04-hw/embedded/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/embedded/arm/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/embedded/</Path>
+                  <Path Filename="haha">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/haha/</Path>
+                  <Path Filename="hacking">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/hacking/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="04-hardware">/home/gas/cht/</Path>
+                  <Path Filename="avr">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/avr/</Path>
+                  <Path Filename="diy">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="deck">/home/gas/cht/04-hardware/diy/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/diy/deck/</Path>
+                  <Path Filename="deck">/home/gas/cht/04-hardware/diy/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/diy/deck/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/diy/</Path>
+                  <Path Filename="mechatron">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/mechatron/</Path>
+                  <Path Filename="haha">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/haha/</Path>
+                  <Path Filename="rtos">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/rtos/</Path>
+                  <Path Filename="materials">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/materials/</Path>
+                  <Path Filename="rust">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/rust/</Path>
+                  <Path Filename="hacking">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/hacking/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="04-hardware">/home/gas/cht/</Path>
+                  <Path Filename="++">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="diy">/home/gas/cht/04-hardware/++/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/++/diy/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/++/</Path>
+                  <Path Filename="robotics">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/robotics/</Path>
+                  <Path Filename="++">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hardware/++/</Path>
+                  <Path Filename="electronics">/home/gas/cht/04-hardware/</Path>
+                  <Path Filename="6.002-spring-2007.zip">/home/gas/cht/04-hardware/electronics/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="+">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="+">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="licenses">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="GNU, Free Software Foundation (FSF)">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/GNU, Free Software Foundation (FSF)/</Path>
+                  <Path Filename="Hardware Licenses">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="Open Source Hardware Association (OSHWA)">/home/gas/cht/01-CS/+/licenses/Hardware Licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Hardware Licenses/Open Source Hardware Association (OSHWA)/</Path>
+                  <Path Filename="CERN-OHL">/home/gas/cht/01-CS/+/licenses/Hardware Licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Hardware Licenses/CERN-OHL/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/Hardware Licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="licenses">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/licenses/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/+/</Path>
+                  <Path Filename="crypto">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/crypto/</Path>
+                  <Path Filename="languages">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="python">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/python/</Path>
+                  <Path Filename="rust">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/rust/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="languages">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="rust">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="embedd">/home/gas/cht/01-CS/languages/rust/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/rust/embedd/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/rust/</Path>
+                  <Path Filename="rust">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="embedd">/home/gas/cht/01-CS/languages/rust/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/rust/embedd/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/rust/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/languages/</Path>
+                  <Path Filename="CSystems">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="linux">/home/gas/cht/01-CS/CSystems/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/CSystems/linux/</Path>
+                  <Path Filename="linux">/home/gas/cht/01-CS/CSystems/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/CSystems/linux/</Path>
+                  <Path Filename="2021 - How Computers Really Work A Hands-On Guide to the Inner Workings of the Machine (Matthew (No Starch Press).pdf">/home/gas/cht/01-CS/CSystems/</Path>
+                  <Path Filename="systems">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/systems/</Path>
+                  <Path Filename="++">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="fluidSim">/home/gas/cht/01-CS/++/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/++/fluidSim/</Path>
+                  <Path Filename="fluidSim">/home/gas/cht/01-CS/++/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/++/fluidSim/</Path>
+                  <Path Filename="fluidSim">/home/gas/cht/01-CS/++/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/++/fluidSim/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/++/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/gas/cht/01-CS/cSystems/</Path>
+                  <Path Filename="network">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/network/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="qt">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/qt/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="14-life">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/</Path>
+                  <Path Filename="12-socio">/home/gas/cht/</Path>
+                  <Path Filename="econ">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/econ/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="04-hw">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="04-hw">/home/gas/cht/</Path>
+                  <Path Filename="hacking">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/hacking/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="12-socio">/home/gas/cht/</Path>
+                  <Path Filename="econ">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/econ/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="11-mental">/home/gas/cht/</Path>
+                  <Path Filename="cognitive">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/cognitive/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="00-in">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/00-in/</Path>
+                  <Path Filename="14-life">/home/gas/cht/</Path>
+                  <Path Filename="Craft_Hobbies_and_Skills">/home/gas/cht/14-life/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/Craft_Hobbies_and_Skills/</Path>
+                  <Path Filename="Handcrafting">/home/gas/cht/14-life/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/Handcrafting/</Path>
+                  <Path Filename="drink">/home/gas/cht/14-life/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/drink/</Path>
+                  <Path Filename="food&amp;drink">/home/gas/cht/14-life/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/food&amp;drink/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/</Path>
+                  <Path Filename="02-stem">/home/gas/cht/</Path>
+                  <Path Filename="calculus">/home/gas/cht/02-stem/</Path>
+                  <Path Filename="..">/home/gas/cht/02-stem/calculus/</Path>
+                  <Path Filename="..">/home/gas/cht/02-stem/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="gas">/home/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="langs">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="cpp">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/cpp/</Path>
+                  <Path Filename="C">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/C/</Path>
+                  <Path Filename="cpp">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/cpp/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/langs/</Path>
+                  <Path Filename="cSystems">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/cSystems/</Path>
+                  <Path Filename="network">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/network/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/</Path>
+                  <Path Filename="cht">/home/gas/</Path>
+                  <Path Filename="01-CS">/home/gas/cht/</Path>
+                  <Path Filename="qt">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/qt/</Path>
+                  <Path Filename="..">/home/gas/cht/01-CS/</Path>
+                  <Path Filename="14-life">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/14-life/</Path>
+                  <Path Filename="12-socio">/home/gas/cht/</Path>
+                  <Path Filename="econ">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/econ/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="04-hw">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="70-thesis">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/70-thesis/</Path>
+                  <Path Filename="11-mental">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/11-mental/</Path>
+                  <Path Filename="">/home/gas/cht/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="12-socio">/home/gas/cht/</Path>
+                  <Path Filename="econ">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/econ/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="media">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/media/</Path>
+                  <Path Filename="..">/home/gas/cht/12-socio/</Path>
+                  <Path Filename="04-hw">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/04-hw/</Path>
+                  <Path Filename="70-thesis">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/70-thesis/</Path>
+                  <Path Filename="05-gfx">/home/gas/cht/</Path>
+                  <Path Filename="fundaments">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/fundaments/</Path>
+                  <Path Filename="fundaments">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/fundaments/</Path>
+                  <Path Filename="lighting">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/lighting/</Path>
+                  <Path Filename="..">/home/gas/cht/05-gfx/</Path>
+                  <Path Filename="03-games">/home/gas/cht/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/</Path>
+                  <Path Filename="03-games">/home/gas/cht/</Path>
+                  <Path Filename="08-anim">/home/gas/cht/03-games/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/08-anim/</Path>
+                  <Path Filename="crit">/home/gas/cht/03-games/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/crit/</Path>
+                  <Path Filename="dev">/home/gas/cht/03-games/</Path>
+                  <Path Filename="engine">/home/gas/cht/03-games/dev/</Path>
+                  <Path Filename="Godot">/home/gas/cht/03-games/dev/engine/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/dev/engine/Godot/</Path>
+                  <Path Filename="REAC_2025_Anvil.pdf">/home/gas/cht/03-games/dev/engine/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/dev/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/</Path>
+                  <Path Filename="03-games">/home/gas/cht/</Path>
+                  <Path Filename="dev">/home/gas/cht/03-games/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/dev/</Path>
+                  <Path Filename="..">/home/gas/cht/03-games/</Path>
+                  <Path Filename="98-+">/home/gas/cht/</Path>
+                  <Path Filename="70-thesis">/home/gas/cht/98-+/</Path>
+                  <Path Filename="..">/home/gas/cht/98-+/70-thesis/</Path>
+                  <Path Filename="Garbage">/home/gas/cht/98-+/</Path>
+                  <Path Filename="..">/home/gas/cht/98-+/Garbage/</Path>
+                  <Path Filename="ObsidianGDrive">/home/gas/cht/98-+/</Path>
+                  <Path Filename="..">/home/gas/cht/98-+/ObsidianGDrive/</Path>
+                  <Path Filename="Wishlist">/home/gas/cht/98-+/</Path>
+                  <Path Filename="2026 - The Secret History of Hypertext - The Atlantic.pdf">/home/gas/cht/98-+/Wishlist/</Path>
+                  <Path Filename="Wishlist">/home/gas/cht/98-+/</Path>
+                  <Path Filename="..">/home/gas/cht/98-+/Wishlist/</Path>
+                  <Path Filename="">/home/gas/cht/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+</doublecmd>

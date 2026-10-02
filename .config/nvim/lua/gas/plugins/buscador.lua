@@ -13,6 +13,81 @@ return {
     config = function()
       local telescope = require("telescope")
       local actions = require("telescope.actions")
+      local action_state = require("telescope.actions.state")
+      local fb_utils = require("telescope._extensions.file_browser.utils")
+      local Path = require("plenary.path")
+
+      local cursor_by_dir = {}
+
+      local function norm_path(path)
+        path = vim.fn.fnamemodify(path, ":p")
+        if path ~= "/" then
+          path = path:gsub("/$", "")
+        end
+        return path
+      end
+
+      local function save_cursor(prompt_bufnr)
+        local picker = action_state.get_current_picker(prompt_bufnr)
+        local entry = action_state.get_selected_entry()
+        if picker.finder.path and entry and entry.value then
+          cursor_by_dir[norm_path(picker.finder.path)] = entry.value
+        end
+      end
+
+      local function restore_cursor(picker)
+        local once = false
+        picker:register_completion_callback(function(p)
+          if once then
+            return
+          end
+          once = true
+          local saved = cursor_by_dir[norm_path(p.finder.path)]
+          if not saved then
+            return
+          end
+          local saved_n = fb_utils.sanitize_path_str(saved)
+          for i, path_entry in ipairs(p.finder.results or {}) do
+            if fb_utils.sanitize_path_str(path_entry.value) == saved_n then
+              p:set_selection(p:get_row(i))
+              return
+            end
+          end
+        end)
+      end
+
+      local function cd(prompt_bufnr, new_path)
+        local picker = action_state.get_current_picker(prompt_bufnr)
+        local finder = picker.finder
+        save_cursor(prompt_bufnr)
+        finder.files = true
+        finder.path = new_path
+        fb_utils.redraw_border_title(picker)
+        restore_cursor(picker)
+        picker:refresh(finder, {
+          new_prefix = fb_utils.relative_path_prefix(finder),
+          reset_prompt = true,
+          multi = picker._multi,
+        })
+      end
+
+      local function go_up(prompt_bufnr)
+        local picker = action_state.get_current_picker(prompt_bufnr)
+        local finder = picker.finder
+        local parent = Path:new(finder.path):parent():absolute()
+        if not cursor_by_dir[norm_path(parent)] then
+          cursor_by_dir[norm_path(parent)] = finder.path
+        end
+        cd(prompt_bufnr, parent)
+      end
+
+      local function go_into(prompt_bufnr)
+        local entry = action_state.get_selected_entry()
+        if not (entry and fb_utils.is_dir(entry.Path)) then
+          return actions.select_default(prompt_bufnr)
+        end
+        cd(prompt_bufnr, vim.loop.fs_realpath(entry.path) or entry.path)
+      end
 
       telescope.setup({
         defaults = {
@@ -32,6 +107,18 @@ return {
             hijack_netrw = true,
             hidden = true,
             grouped = true,
+            mappings = {
+              i = {
+                ["<Left>"] = go_up,
+                ["<Right>"] = go_into,
+                ["<CR>"] = go_into,
+              },
+              n = {
+                ["<Left>"] = go_up,
+                ["<Right>"] = go_into,
+                ["<CR>"] = go_into,
+              },
+            },
           }
         }
       })

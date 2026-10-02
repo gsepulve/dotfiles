@@ -1,0 +1,38 @@
+# press ctrl+shift+, to reload config
+
+font-family 		= "CommitMonov3_275_min4_allON_allDEF"
+font-size 		= 11.05
+# with 192dpi (200%) = 11.05 font-size
+# with 240dpi (250%) = 8.84 font-size
+
+window-show-tab-bar 	= never
+window-decoration	= none
+window-padding-x 	= 0
+window-padding-y	= 0
+background		= 000000
+
+mouse-scroll-multiplier = precision:24.0,discrete:8.0
+
+# theme			= Dimmed Monokai
+# theme			= Hot Dog Stand
+# theme 			= 
+# -----------------------------------
+#		List of themes
+# -----------------------------------
+# ghostty +list-themes
+# --------------------
+
+# Borland (Terminal blue)
+# Alien Blood (dimmed dark and green)
+# Adwait ( a bright, easy white)
+# C64 ( weird, very dimmed, easy to read #3E328F)
+# Cobal Neon (Invader Zim pallete md-high contrast)
+# Crayon Pony Fish (low contrast, #160707)
+# Darkermatrix (~0 contrast , alien colors)
+# Fahrenheit ()
+# Fairyfloss (easy, ponyland colors)
+# grass (green)
+# Nord (or Nordfox)
+# Treehouse (low contrast earth colors)
+
+

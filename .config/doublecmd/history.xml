@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item Value="/home/gas/cht/04-hardware/electronics/"/>
+      <Item Value="/home/gas/cht/01-CS/++/"/>
+      <Item Value="/home/gas/cht/01-CS/++/fluidSim/"/>
+      <Item Value="/home/gas/cht/01-CS/"/>
+      <Item Value="/home/gas/cht/02-stem/"/>
+      <Item Value="/home/gas/cht/01-CS/systems/"/>
+      <Item Value="/home/gas/cht/02-stem/calculus/"/>
+      <Item Value="/home/gas/cht/04-hardware/"/>
+      <Item Value="/home/gas/cht/04-hardware/++/"/>
+      <Item Value="/home/gas/cht/04-hardware/robotics/"/>
+      <Item Value="/home/gas/cht/04-hardware/++/diy/"/>
+      <Item Value="/home/gas/cht/"/>
+      <Item Value="/home/gas/cht/00-inbox/"/>
+      <Item Value="/home/gas/cht/00-inbox/later/"/>
+      <Item Value="/home/gas/cht/00-inbox/keyboard/"/>
+      <Item Value="/home/gas/cht/00-inbox/languages/"/>
+      <Item Value="/home/gas/cht/00-inbox/languages/C++/"/>
+      <Item Value="/home/gas/cht/04-hardware/hacking/"/>
+      <Item Value="/home/gas/"/>
+      <Item Value="/home/gas/cht/04-hardware/crypto/"/>
+      <Item Value="/home/gas/cht/01-CS/crypto/"/>
+      <Item Value="/home/gas/cht/01-CS/CSystems/"/>
+      <Item Value="/home/gas/cht/01-CS/CSystems/linux/"/>
+      <Item Value="/home/gas/cht/01-CS/languages/"/>
+      <Item Value="/home/gas/cht/01-CS/languages/rust/"/>
+      <Item Value="/home/gas/cht/01-CS/languages/rust/embedd/"/>
+      <Item Value="/home/gas/cht/04-hardware/rust/"/>
+      <Item Value="/home/gas/cht/00-in/"/>
+      <Item Value="/home/gas/cht/++/"/>
+      <Item Value="/home/gas/cht/12-society/"/>
+      <Item Value="/home/gas/cht/01-CS/languages/python/"/>
+      <Item Value="/home/gas/cht/00-inbox/Celular dump/"/>
+      <Item Value="/home/gas/src/c/"/>
+      <Item Value="/home/gas/src/c/algo/"/>
+      <Item Value="/home/gas/src/"/>
+      <Item Value="/home/gas/.local/"/>
+      <Item Value="/home/gas/.local/share/"/>
+      <Item Value="/home/gas/.local/share/Trash/"/>
+      <Item Value="/home/gas/cht/01-CS/+/"/>
+      <Item Value="/home/gas/cht/03-gameDev/"/>
+      <Item Value="/home/gas/cht/14-life/"/>
+      <Item Value="/home/gas/cht/14-life/food&amp;drink/"/>
+      <Item Value="/home/gas/cht/14-life/drink/"/>
+      <Item Value="/home/gas/cht/14-life/Handcrafting/"/>
+      <Item Value="/home/gas/cht/14-life/Craft_Hobbies_and_Skills/"/>
+      <Item Value="/home/gas/cht/01-CS/languages/more/"/>
+      <Item Value="/home/gas/cht/04-hardware/materials/"/>
+      <Item Value="/home/gas/cht/04-hardware/rtos/"/>
+      <Item Value="/home/gas/cht/04-hardware/haha/"/>
+      <Item Value="/home/gas/cht/04-hardware/mechatron/"/>
+      <Item Value="/home/gas/cht/01-CS/languages/more/hylo/"/>
+    </Navigation>
+    <CommandLine/>
+    <FileMask>
+      <Item Value="electronic principles"/>
+      <Item Value="clean"/>
+      <Item Value="*.*"/>
+    </FileMask>
+    <VolumeSize/>
+    <CreateDirectories>
+      <Item Value="radar-electronic-warfare" Tag="0"/>
+      <Item Value="materials" Tag="0"/>
+      <Item Value="fundaments" Tag="0"/>
+      <Item Value="security" Tag="0"/>
+      <Item Value="crypto" Tag="0"/>
+      <Item Value="ghidra" Tag="0"/>
+      <Item Value="macos" Tag="0"/>
+      <Item Value="Computer Systems A Programmer&apos;s Perspective" Tag="0"/>
+      <Item Value="architect" Tag="0"/>
+    </CreateDirectories>
+    <SearchText/>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <RenameNameMask/>
+    <RenameExtMask/>
+    <SearchDirectories>
+      <Item Value="/home/gas/cht/"/>
+    </SearchDirectories>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>

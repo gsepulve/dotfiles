@@ -17,7 +17,7 @@ local c = {
   bg_alt            = "#000000", -- 
   bg_float          = "#1f1f00", -- highlight when scrolling and keeping fn name on top
   fg_float          = "#ffffff", --  unknown
-  fg                = "#ffff00", -- 16dc00
+  fg                = "#919100", -- ffff00 16dc00
 
   fg_alt            = "#c70000", -- 
   border            = "#000000",
@@ -27,11 +27,11 @@ local c = {
   comment_bg        = "#0a0000", -- 150000 turn off
   keyword           = "#6f7efa", -- 0000ff and move L slider (CM) while K is 0 
   func              = "#ffc09e", -- C 0, M>Y,L 33 (aa00aa)(ffb8f6)
-  type              = "#ba6aff", -- ff0000 and move L slider (MY) while K is 0
+  type              = "#cf98ff", -- ff0000 and move L slider (MY) while K is 0
 
-  string            = "#c4c89b", -- 
-  number            = "#ffffef", -- ffff7f
-  variable          = "#ffffff", -- ffff7f 479e00
+  string            = "#d2d6a6", -- 
+  number            = "#ffffd0", -- ffff7f
+  variable          = "#fff9ed", -- ffff7f 479e00
   field             = "#a7a7ff", -- Move L slider CM together. YK 0,0.
   constant          = "#ff7d64", -- 
   operator          = "#54a9ff", -- 005eff 7fffff 4875ff
@@ -39,28 +39,30 @@ local c = {
   parameter         = "#7fbfff",
   delimiter         = "#ffff00",
   punctuation       = "#fe6262", -- ff7f00 ; , maybe tiny bit more mage-nta
-  rusty             = "#822e13",
-  ocean             = "#19407c",
+  rusty             = "#822e13", -- nothing
+  ocean             = "#19407c", -- nothing
 
   error             = "#ff3333",
   warn              = "#ffff00", -- 
   info              = "#00d5ff",
   hint              = "#7be89b",
 
+-- tabs
   tab_active        = "#000000", -- 
   tab_inactive      = "#000000", -- 
   tab_inactive_text = "#00a3ff",
   tab_inactive_fg   = "#ffffff", -- TAB ACTIVE OUT OF FOCUS TEXT
-  tab_active_text   = "#ffff00",
+  tab_active_text   = "#bdbd00",
   tab_bg            = "#ff0000",
   tab_edge          = "#3d0000",
-  tab_mod_text      = "#ffcd19",
+  tab_mod_text      = "#ffff5c",
 
   selection         = "#2a3f66",
   pmenu_sel         = "#00647a",
   search            = "#e07b00",
 }
 
+-- TODO: PUT ASCII PORN HERE
 local hl = vim.api.nvim_set_hl
 
 hl(0, "Normal",        { fg = c.fg, bg = c.bg })

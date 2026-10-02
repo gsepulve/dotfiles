@@ -17,10 +17,10 @@ G="\033[01;32m"
 #echo -e "
 #        $B. $W
 #       $B/#\ $W                     _     $B _ _
-#      $B/###\ $W      __ _ _ __ ___| |__  $B| (_)_ __  _   ___  __ 
+#      $B/###\ $W      __ _ _ __ ___| |__  $B| (_)_ __  _   ___  __
 #     $B/#####\ $W    / _' | '__/ __| '_ \ $B| | | '_ \| | | \ \/ /
-#    $B/##.-.##\ $W  | (_| | | | (__| | | |$B| | | | | | |_| |>  <  
-#   $B/##(   )##\ $W  \__,_|_|  \___|_| |_|$B|_|_|_| |_|\__._/_/\_\  
+#    $B/##.-.##\ $W  | (_| | | | (__| | | |$B| | | | | | |_| |>  <
+#   $B/##(   )##\ $W  \__,_|_|  \___|_| |_|$B|_|_|_| |_|\__._/_/\_\
 #  $B/#.--   --.#\ $W
 # $B/'           '\ "
 #echo -e "       $B Leche con platano $W- Esto es$B ARCH$W conchetumare$B que wea "
@@ -35,6 +35,7 @@ alias emedes='/usr/bin/git --git-dir=$HOME/emedes.git --work-tree=$HOME'
 #alias zeal="QT_OPENGL=software QTWEBENGINE_CHROMIUM_FLAGS=--disable-gpu zeal"
 
 export TERMINAL=kitty
+export EDITOR="nvim"
 
 export PATH="$HOME/.local/bin:$PATH"
 
@@ -44,3 +45,9 @@ epub2pdf() {
 } # not working
 
 eval "$(starship init bash)"
+
+add-cover() {
+	local x=$(pdfinfo "$2" | awk '/Page size:/ {print $3}')
+	img2pdf "$1" --pagesize "${x}x" -o "${2%.pdf}_temp.pdf"
+	qpdf --empty --pages "${2%.pdf}_temp.pdf" "$2" -- "${2%.pdf} (cover).pdf" && rm "${2%.pdf}_temp.pdf"
+}

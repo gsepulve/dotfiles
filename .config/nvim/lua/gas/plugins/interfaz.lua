@@ -27,6 +27,8 @@ for _, prefix in ipairs({ "", "2-", "3-", "4-" }) do
   vim.keymap.set({ "n", "v" }, "<" .. prefix .. "ScrollWheelDown>", "<C-e>", { silent = true })
 end
 
+vim.keymap.set("n", "<leader>iu", function() vim.fn.append(vim.fn.line('.'), {"[Desktop Entry]", "Type=Link", "URL=" .. vim.fn.getreg("+"):gsub("%s+", "")}) end, { desc = "Insert .desktop" })
+-- learder>iU
 
 vim.cmd("colorscheme my_theme_1")
 vim.opt.cmdheight = 0
@@ -60,6 +62,17 @@ return {
   {
     'numToStr/Comment.nvim',
     opts = {},
+  },
+
+  {
+    'wfxr/minimap.vim',
+    lazy = false,
+    build = "cargo install --locked code-minimap",
+    init = function()
+      vim.g.minimap_width = 10
+      vim.g.minimap_auto_start = 1
+      vim.g.minimap_auto_start_win_enter = 1
+    end,
   },
 
 
